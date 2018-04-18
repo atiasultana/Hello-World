@@ -1,2 +1,4 @@
 # Hello-World
-new repository
+
+Hi everyone,
+I am Atia, here to learn new things.
